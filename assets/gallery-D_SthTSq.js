@@ -1,0 +1,1 @@
+function e(e){return`/gallery/${e}/`}function t(e,t){return e.find(e=>e.id===t)}function n(e){return e.photos.find(t=>t.src===e.cover)??e.photos[0]}function r(e,t){let n=t.trim().toLowerCase();return n===``?[...e]:e.filter(e=>[e.name,e.description,e.location,...e.tags].some(e=>e.toLowerCase().includes(n)))}export{t as i,e as n,n as r,r as t};

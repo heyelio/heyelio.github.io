@@ -1,0 +1,1 @@
+import{lt as e,st as t}from"./jsx-runtime-CnXuS9mb.js";import{n,t as r}from"./fancybox-xVNrpkD5.js";var i=e(t(),1);function a({selector:e=n}){return(0,i.useEffect)(()=>{let t,n=!1;return r(e).then(e=>{n?e():t=e}),()=>{n=!0,t?.()}},[e]),null}export{a as t};

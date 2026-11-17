@@ -1,0 +1,15 @@
+/*
+ * Giscus theme for the light mode of the site. Giscus loads this file inside its
+ * iframe because `data-theme` points at it, so the rule below is the only way to
+ * reach the discussion markup: the default theme leaves the comment editor
+ * toolbar flush against the iframe edges, and its rightmost control (the
+ * monospace toggle) gets clipped there.
+ *
+ * The palette is the official light theme, imported instead of copied so the
+ * Primer tokens keep following upstream.
+ */
+@import 'https://giscus.app/themes/light.css';
+
+.gsc-comments {
+  padding: 0.5rem;
+}

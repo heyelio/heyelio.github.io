@@ -1,0 +1,13 @@
+/*
+ * Giscus theme for the dark mode of the site. See `giscus-light.css` for why the
+ * padding lives here rather than in the site styles: the discussion is a
+ * cross-origin iframe, so only a theme file can reach its markup.
+ *
+ * The palette is the official dark theme, imported instead of copied so the
+ * Primer tokens keep following upstream.
+ */
+@import 'https://giscus.app/themes/dark.css';
+
+.gsc-comments {
+  padding: 0.5rem;
+}

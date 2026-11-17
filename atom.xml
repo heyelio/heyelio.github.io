@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://heyelio.github.io/</id>
+    <title>Elio Hwang</title>
+    <updated>2026-11-17T01:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Elio Hwang</name>
+        <uri>https://heyelio.github.io/</uri>
+    </author>
+    <link rel="alternate" href="https://heyelio.github.io/"/>
+    <link rel="self" href="https://heyelio.github.io/atom.xml"/>
+    <subtitle>专注于软件工程，探索 AI 的未来。热衷于创造、折腾 Agent，也乐于记录那些真正有用的经验。让每一次探索都有迹可循，让未来的自己和他人少走一些弯路。</subtitle>
+    <rights>© 2023 Elio Hwang</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何用 AI 重构这个博客]]></title>
+        <id>https://heyelio.github.io/posts/ai-rebuilt-blog/</id>
+        <link href="https://heyelio.github.io/posts/ai-rebuilt-blog/"/>
+        <updated>2026-11-17T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[从 Astro 迁移到 React Router，记录一次 AI 深度参与的博客重构：技术选型、开发流程、质量检查，以及过程中遇到的问题。]]></summary>
+        <category label="AI 协作"/>
+        <category label="重构"/>
+        <category label="React Router"/>
+        <category label="静态站点"/>
+        <category label="工程化"/>
+        <published>2026-11-17T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duo：和角色一起，住进一部小说]]></title>
+        <id>https://heyelio.github.io/posts/duo/</id>
+        <link href="https://heyelio.github.io/posts/duo/"/>
+        <updated>2026-11-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Duo 是一款本地优先的小说角色扮演应用：角色只记住她认为重要的事，故事时间持续向前，世界在你不说话时也会发生变化。]]></summary>
+        <category label="Flutter"/>
+        <category label="AI 角色扮演"/>
+        <category label="LLM"/>
+        <category label="本地优先"/>
+        <category label="产品设计"/>
+        <published>2026-11-16T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KMP：让失配也成为信息]]></title>
+        <id>https://heyelio.github.io/posts/kmp-algorithm/</id>
+        <link href="https://heyelio.github.io/posts/kmp-algorithm/"/>
+        <updated>2023-04-09T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[KMP 字符串匹配算法详解，包含 next 数组推导、代码实现与例题训练。]]></summary>
+        <category label="算法"/>
+        <category label="KMP"/>
+        <category label="字符串匹配"/>
+        <published>2023-04-09T14:16:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动态规划：从爬楼梯开始]]></title>
+        <id>https://heyelio.github.io/posts/dynamic-programming/</id>
+        <link href="https://heyelio.github.io/posts/dynamic-programming/"/>
+        <updated>2023-04-09T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[动态规划解题步骤与例题训练，包含爬楼梯、最长回文子串、最长递增子序列等经典问题。]]></summary>
+        <category label="算法"/>
+        <category label="动态规划"/>
+        <category label="LeetCode"/>
+        <published>2023-04-09T09:55:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[状态模式：状态变了行为就变]]></title>
+        <id>https://heyelio.github.io/posts/state-pattern/</id>
+        <link href="https://heyelio.github.io/posts/state-pattern/"/>
+        <updated>2023-04-05T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[状态模式是一种行为设计模式，让你能在一个对象的内部状态变化时改变其行为，使其看上去就像改变了自身所属的类一样。或者说通过控制状态的变化使其行为发生变化。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="状态模式"/>
+        <published>2023-04-05T14:17:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迭代器模式：不暴露内部地遍历]]></title>
+        <id>https://heyelio.github.io/posts/iterator-pattern/</id>
+        <link href="https://heyelio.github.io/posts/iterator-pattern/"/>
+        <updated>2023-04-05T14:12:00.000Z</updated>
+        <summary type="html"><![CDATA[迭代器模式是一种行为设计模式，让你能在不暴露集合底层表现形式（列表、 栈和树等）的情况下遍历集合中所有的元素。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="迭代器模式"/>
+        <published>2023-04-05T14:12:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解释器模式：给语言定义一套语法]]></title>
+        <id>https://heyelio.github.io/posts/interpreter-pattern/</id>
+        <link href="https://heyelio.github.io/posts/interpreter-pattern/"/>
+        <updated>2023-04-05T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[解释器模式是一种行为设计模式，用于定义语言的语法规则表示，并提供解释器来处理句子中的语法。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="解释器模式"/>
+        <published>2023-04-05T12:54:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[访问者模式：把操作从结构里拿出来]]></title>
+        <id>https://heyelio.github.io/posts/visitor-pattern/</id>
+        <link href="https://heyelio.github.io/posts/visitor-pattern/"/>
+        <updated>2023-04-05T11:41:00.000Z</updated>
+        <summary type="html"><![CDATA[访问者模式是一种行为设计模式，它能将算法与其所作用的对象隔离开来。允许在运行时将一个或多个操作应用于一组对象，将操作与对象结构分离。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="访问者模式"/>
+        <published>2023-04-05T11:41:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[备忘录模式：随时存档与回滚]]></title>
+        <id>https://heyelio.github.io/posts/memento-pattern/</id>
+        <link href="https://heyelio.github.io/posts/memento-pattern/"/>
+        <updated>2023-04-05T09:24:00.000Z</updated>
+        <summary type="html"><![CDATA[备忘录模式（也称快照模式）是一种行为设计模式，允许在不暴露对象实现细节的情况下保存和恢复对象之前的状态。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="备忘录模式"/>
+        <published>2023-04-05T09:24:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中介者模式：让对象不再彼此纠缠]]></title>
+        <id>https://heyelio.github.io/posts/mediator-pattern/</id>
+        <link href="https://heyelio.github.io/posts/mediator-pattern/"/>
+        <updated>2023-04-05T06:46:00.000Z</updated>
+        <summary type="html"><![CDATA[中介者模式是一种行为设计模式，能让你减少对象之间混乱无序的依赖关系。该模式会限制对象之间的直接交互，迫使它们通过一个中介者对象进行合作。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="中介者模式"/>
+        <published>2023-04-05T06:46:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模板方法模式：父类定框架，子类填步骤]]></title>
+        <id>https://heyelio.github.io/posts/template-method-pattern/</id>
+        <link href="https://heyelio.github.io/posts/template-method-pattern/"/>
+        <updated>2023-04-05T04:42:00.000Z</updated>
+        <summary type="html"><![CDATA[模板方法模式是一种行为设计模式，它在超类中定义了一个算法的框架，允许子类在不修改结构的情况下重写算法的特定步骤。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="模板方法模式"/>
+        <published>2023-04-05T04:42:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观察者模式：一变全知道]]></title>
+        <id>https://heyelio.github.io/posts/observer-pattern/</id>
+        <link href="https://heyelio.github.io/posts/observer-pattern/"/>
+        <updated>2023-04-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[观察者模式（也称事件订阅者、监听者。）是一种行为设计模式，允许你定义一种订阅机制，可在对象事件发生时通知多个“观察”该对象的其他对象。这是对象之间的一对多依赖关系，这样当一个对象改变状态时，它的所有依赖者都会收到通知并自动更新。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="观察者模式"/>
+        <published>2023-04-05T04:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[策略模式：算法可替换]]></title>
+        <id>https://heyelio.github.io/posts/strategy-pattern/</id>
+        <link href="https://heyelio.github.io/posts/strategy-pattern/"/>
+        <updated>2023-04-05T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[策略模式是一种行为设计模式，它能让你定义一系列算法，并将每种算法分别放入独立的类中，以使算法的对象能够相互替换。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="策略模式"/>
+        <published>2023-04-05T03:45:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[享元模式：用共享状态省内存]]></title>
+        <id>https://heyelio.github.io/posts/flyweight-pattern/</id>
+        <link href="https://heyelio.github.io/posts/flyweight-pattern/"/>
+        <updated>2023-04-04T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[享元模式是一种结构型设计模式，它摒弃了在每个对象中保存所有数据的方式，通过共享多个对象所共有的相同状态，让你能在有限的内存容量中载入更多对象。]]></summary>
+        <category label="设计模式"/>
+        <category label="结构型模式"/>
+        <category label="享元模式"/>
+        <published>2023-04-04T10:22:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[组合模式：把对象搭成一棵树]]></title>
+        <id>https://heyelio.github.io/posts/composite-pattern/</id>
+        <link href="https://heyelio.github.io/posts/composite-pattern/"/>
+        <updated>2023-04-04T08:41:00.000Z</updated>
+        <summary type="html"><![CDATA[组合模式是一种结构型设计模式，你可以使用它将对象组合成树状结构，并且能像使用独立对象一样使用它们。]]></summary>
+        <category label="设计模式"/>
+        <category label="结构型模式"/>
+        <category label="组合模式"/>
+        <published>2023-04-04T08:41:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代理模式：给对象配个替身]]></title>
+        <id>https://heyelio.github.io/posts/proxy-pattern/</id>
+        <link href="https://heyelio.github.io/posts/proxy-pattern/"/>
+        <updated>2023-04-04T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[代理模式是一种结构型设计模式，让你能够提供对象的替代品或其占位符。代理控制着对于原对象的访问，并允许在将请求提交给对象前后进行一些处理。]]></summary>
+        <category label="设计模式"/>
+        <category label="结构型模式"/>
+        <category label="代理模式"/>
+        <published>2023-04-04T07:52:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单例模式：全局只此一份]]></title>
+        <id>https://heyelio.github.io/posts/singleton-pattern/</id>
+        <link href="https://heyelio.github.io/posts/singleton-pattern/"/>
+        <updated>2023-04-04T07:21:00.000Z</updated>
+        <summary type="html"><![CDATA[单例模式是一种创建型设计模式，让你能够保证一个类只有一个实例，并提供一个访问该实例的全局节点。]]></summary>
+        <category label="设计模式"/>
+        <category label="创建型模式"/>
+        <category label="单例模式"/>
+        <published>2023-04-04T07:21:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外观模式：给复杂系统一个入口]]></title>
+        <id>https://heyelio.github.io/posts/facade-pattern/</id>
+        <link href="https://heyelio.github.io/posts/facade-pattern/"/>
+        <updated>2023-04-04T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[外观模式是一种结构型设计模式，能为程序库、框架或其他复杂类提供一个简单的接口或为子系统中的一组接口提供统一的接口。它定义了一个更高级别的接口，使子系统更易于使用。]]></summary>
+        <category label="设计模式"/>
+        <category label="结构型模式"/>
+        <category label="外观模式"/>
+        <published>2023-04-04T06:42:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装饰模式：给对象层层加功能]]></title>
+        <id>https://heyelio.github.io/posts/decorator-pattern/</id>
+        <link href="https://heyelio.github.io/posts/decorator-pattern/"/>
+        <updated>2023-04-04T03:56:00.000Z</updated>
+        <summary type="html"><![CDATA[装饰模式是一种结构型设计模式，允许你通过将对象放入包含行为的特殊封装对象中来为原对象绑定新的行为。或者说允许动态地向一个现有的对象添加新的功能同时又不改变其结构，相当于对现有的对象进行了一个包装。]]></summary>
+        <category label="设计模式"/>
+        <category label="结构型模式"/>
+        <category label="装饰模式"/>
+        <published>2023-04-04T03:56:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[命令模式：把请求封装成对象]]></title>
+        <id>https://heyelio.github.io/posts/command-pattern/</id>
+        <link href="https://heyelio.github.io/posts/command-pattern/"/>
+        <updated>2023-04-04T03:11:00.000Z</updated>
+        <summary type="html"><![CDATA[命令模式是一种行为设计模式，它可将请求转换为一个包含与请求相关的所有信息的独立对象。该转换让你能根据不同的请求将方法参数化、延迟请求执行或将其放入队列中，且能实现可撤销操作。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="命令模式"/>
+        <published>2023-04-04T03:11:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[责任链模式：让请求沿链传递]]></title>
+        <id>https://heyelio.github.io/posts/chain-of-responsibility-pattern/</id>
+        <link href="https://heyelio.github.io/posts/chain-of-responsibility-pattern/"/>
+        <updated>2023-04-04T02:22:00.000Z</updated>
+        <summary type="html"><![CDATA[责任链模式是一种行为设计模式，允许你将请求沿着处理者链进行发送。收到请求后，每个处理者均可对请求进行处理，或将其传递给链上的下个处理者。简单来说就是通过构建一个处理流水线来对一次请求进行多次的处理。]]></summary>
+        <category label="设计模式"/>
+        <category label="行为型模式"/>
+        <category label="责任链模式"/>
+        <published>2023-04-04T02:22:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[适配器模式：让不兼容的接口对接]]></title>
+        <id>https://heyelio.github.io/posts/adapter-pattern/</id>
+        <link href="https://heyelio.github.io/posts/adapter-pattern/"/>
+        <updated>2023-04-04T01:14:00.000Z</updated>
+        <summary type="html"><![CDATA[适配器模式是一种结构型设计模式，它能使接口不兼容的对象能够相互合作。]]></summary>
+        <category label="设计模式"/>
+        <category label="结构型模式"/>
+        <category label="适配器模式"/>
+        <published>2023-04-04T01:14:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桥接模式：把抽象与实现拆开]]></title>
+        <id>https://heyelio.github.io/posts/bridge-pattern/</id>
+        <link href="https://heyelio.github.io/posts/bridge-pattern/"/>
+        <updated>2023-04-04T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[桥接模式是一种结构型设计模式，可将一个大类或一系列紧密相关的类拆分为抽象和实现两个独立的层次结构，从而能在开发时分别使用。]]></summary>
+        <category label="设计模式"/>
+        <category label="结构型模式"/>
+        <category label="桥接模式"/>
+        <published>2023-04-04T00:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原型模式：复制而不是新建]]></title>
+        <id>https://heyelio.github.io/posts/prototype-pattern/</id>
+        <link href="https://heyelio.github.io/posts/prototype-pattern/"/>
+        <updated>2023-04-03T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[原型模式是一种创建型设计模式，使你能够复制已有对象，而又无需使代码依赖它们所属的类。]]></summary>
+        <category label="设计模式"/>
+        <category label="创建型模式"/>
+        <category label="原型模式"/>
+        <published>2023-04-03T09:12:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成器模式：分步骤造出复杂对象]]></title>
+        <id>https://heyelio.github.io/posts/builder-pattern/</id>
+        <link href="https://heyelio.github.io/posts/builder-pattern/"/>
+        <updated>2023-04-03T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[生成器模式也叫“建造者模式”是一种创建型设计模式，使你能够分步骤创建复杂对象。 该模式允许你使用相同的创建代码生成不同类型和形式的对象。]]></summary>
+        <category label="设计模式"/>
+        <category label="创建型模式"/>
+        <category label="生成器模式"/>
+        <published>2023-04-03T05:55:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抽象工厂模式：成系列地创建对象]]></title>
+        <id>https://heyelio.github.io/posts/abstract-factory-pattern/</id>
+        <link href="https://heyelio.github.io/posts/abstract-factory-pattern/"/>
+        <updated>2023-04-03T05:22:00.000Z</updated>
+        <summary type="html"><![CDATA[抽象工厂模式是一种创建型设计模式，它能创建一系列相关的对象，而无需指定其具体类。]]></summary>
+        <category label="设计模式"/>
+        <category label="创建型模式"/>
+        <category label="抽象工厂模式"/>
+        <published>2023-04-03T05:22:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工厂方法模式：由子类决定创建什么]]></title>
+        <id>https://heyelio.github.io/posts/factory-method-pattern/</id>
+        <link href="https://heyelio.github.io/posts/factory-method-pattern/"/>
+        <updated>2023-04-03T03:11:00.000Z</updated>
+        <summary type="html"><![CDATA[工厂方法模式是一种创建型设计模式，其在父类中提供一个创建对象的方法，允许子类决定实例化对象的类型。]]></summary>
+        <category label="设计模式"/>
+        <category label="创建型模式"/>
+        <category label="工厂方法模式"/>
+        <published>2023-04-03T03:11:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计模式：23 种套路与六原则]]></title>
+        <id>https://heyelio.github.io/posts/design-patterns/</id>
+        <link href="https://heyelio.github.io/posts/design-patterns/"/>
+        <updated>2023-04-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[23 种设计模式总览，涵盖创建型、结构型、行为型三大类模式及六大设计原则。]]></summary>
+        <category label="设计模式"/>
+        <category label="GoF"/>
+        <category label="软件设计"/>
+        <published>2023-04-02T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UML 用例图：参与者与用例的关系]]></title>
+        <id>https://heyelio.github.io/posts/uml-use-case-diagram/</id>
+        <link href="https://heyelio.github.io/posts/uml-use-case-diagram/"/>
+        <updated>2023-03-09T08:14:00.000Z</updated>
+        <summary type="html"><![CDATA[UML 用例图的模型元素与关系，涵盖参与者、用例、关联、包含、扩展、泛化等概念。]]></summary>
+        <category label="UML"/>
+        <category label="用例图"/>
+        <category label="面向对象"/>
+        <published>2023-03-09T08:14:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UML 顺序图：一次交互的时间线]]></title>
+        <id>https://heyelio.github.io/posts/uml-sequence-diagram/</id>
+        <link href="https://heyelio.github.io/posts/uml-sequence-diagram/"/>
+        <updated>2023-03-09T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[UML 顺序图的模型元素与使用方法，涵盖参与者、对象、生命线、激活框、消息等概念。]]></summary>
+        <category label="UML"/>
+        <category label="顺序图"/>
+        <category label="面向对象"/>
+        <published>2023-03-09T06:53:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UML 类图：六种关系的画法]]></title>
+        <id>https://heyelio.github.io/posts/uml-class-diagram/</id>
+        <link href="https://heyelio.github.io/posts/uml-class-diagram/"/>
+        <updated>2023-03-09T01:23:00.000Z</updated>
+        <summary type="html"><![CDATA[UML 类图的关系与画法，涵盖依赖、关联、泛化、实现、聚合、组合六种类间关系。]]></summary>
+        <category label="UML"/>
+        <category label="类图"/>
+        <category label="面向对象"/>
+        <published>2023-03-09T01:23:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E-R 图：传统画法与 IE 模型]]></title>
+        <id>https://heyelio.github.io/posts/er-diagram/</id>
+        <link href="https://heyelio.github.io/posts/er-diagram/"/>
+        <updated>2023-03-09T00:17:00.000Z</updated>
+        <summary type="html"><![CDATA[E-R 图的画法介绍，包括传统画法与改进的 IE 模型画法。]]></summary>
+        <category label="数据库"/>
+        <category label="E-R图"/>
+        <category label="UML"/>
+        <published>2023-03-09T00:17:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向对象设计：从耦合到概念完整性]]></title>
+        <id>https://heyelio.github.io/posts/object-oriented-design/</id>
+        <link href="https://heyelio.github.io/posts/object-oriented-design/"/>
+        <updated>2023-03-08T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[面向对象设计原则与建模方法，涵盖耦合内聚、关注点分离、信息隐藏、概念完整性等核心概念。]]></summary>
+        <category label="面向对象"/>
+        <category label="软件设计"/>
+        <category label="OOP"/>
+        <published>2023-03-08T23:25:00.000Z</published>
+    </entry>
+</feed>
