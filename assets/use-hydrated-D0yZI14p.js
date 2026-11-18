@@ -1,1 +1,0 @@
-import{lt as e,st as t}from"./jsx-runtime-CnXuS9mb.js";var n=e(t(),1),r=()=>()=>{},i=()=>!0,a=()=>!1;function o(){return(0,n.useSyncExternalStore)(r,i,a)}export{o as t};

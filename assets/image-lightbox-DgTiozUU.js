@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{p as t}from"./post-body-duo-Da8F6HVh.js";import{n,t as r}from"./fancybox-CtHMm726.js";var i=e(t(),1);function a({selector:e=n}){return(0,i.useEffect)(()=>{let t,n=!1;return r(e).then(e=>{n?e():t=e}),()=>{n=!0,t?.()}},[e]),null}export{a as t};
