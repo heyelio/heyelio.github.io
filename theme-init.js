@@ -25,10 +25,6 @@
       root.classList.add('card-follow-hue');
     }
 
-    if (store.getItem('heyelio:post-layout') === 'grid') {
-      root.dataset.postLayout = 'grid';
-    }
-
     // Wallpaper and banner panels are applied through root attributes so the
     // markup stays identical between the prerendered HTML and the client.
     var wallpaperMode = store.getItem('heyelio:wallpaper-mode');
